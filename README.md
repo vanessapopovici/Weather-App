@@ -12,10 +12,6 @@ A simple weather application built with HTML, CSS, and JavaScript that displays 
 - Error handling for invalid city names
 - Supports search via button click or Enter key
 
-## Demo
- 
-![Weather App Screenshot](images/weatherDemo.png)
-
 ## Tech Stack
  
 - HTML5
